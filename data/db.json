@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Hey there, this is my first venture into creating a blog using React. The blog's name is simple - 'The Gilleone Blog'. This blog was part of my dive into the world of web development. It was an exciting journey for me, but it doesn't mean there'll be a lot of content here. It was merely an experiment, and I don't plan on continuing to post here. My experience using React to create this blog was both engaging and educational. It was a fantastic opportunity to try out new technologies and learn more about web development. This blog will remain here as a small part of my journey in learning React. I don't intend to update it regularly, but who knows, perhaps in the future, I'll return with new projects.",
+      "author": "gilleone - admin",
+      "id": 1
+    },
+    {
+      "title": "Hello world!",
+      "body": "HI!",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
+}
